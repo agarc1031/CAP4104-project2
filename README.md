@@ -53,8 +53,8 @@ The goal of Healthy Bites is to give its users quick and easy access to nutritio
 - Sign up at https://developer.nutritionix.com/
 - Copy your App ID and App Key
 - Open app.py and update:
-  app_id = "YOUR_APP_ID"
-  app_key = "YOUR_APP_KEY"
+     - app_id = "YOUR_APP_ID"
+     - app_key = "YOUR_APP_KEY"
 5. Run the App
 - streamlit run app.py
 ## 🎥 Healthy Bites Demo: 
