@@ -20,7 +20,7 @@ def calculate_health_score(nutrients):
     return max(score, 0)
 
 st.set_page_config(page_title="Healthy Bites", layout="centered")
-st.title("🥗 Healthy Bites")
+st.title("🥗 Healthy Bites: Your Gut-Friendly App")
 st.subheader("Search for a food and get its nutritional breakdown")
 
 query = st.text_input("Enter a food item:")
