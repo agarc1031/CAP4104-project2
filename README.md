@@ -58,4 +58,4 @@ The goal of Healthy Bites is to give its users quick and easy access to nutritio
 5. Run the App
 - streamlit run app.py
 ## 🎥 Healthy Bites Demo: 
-👉https://www.youtube.com/shorts/254ZSEAAp0w
+👉(https://youtu.be/xsmwQQd2-n0)
