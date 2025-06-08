@@ -23,7 +23,7 @@ st.set_page_config(page_title="Healthy Bites", layout="centered")
 st.title("🥗 Healthy Bites")
 st.subheader("Search for a food and get its nutritional breakdown")
 
-query = st.text_input("Enter a food item:", "apple")
+query = st.text_input("Enter a food item:")
 search_button = st.button("Search")
 
 if search_button and query:
