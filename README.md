@@ -18,7 +18,7 @@ The goal of Healthy Bites is to give its users quick and easy access to nutritio
 - 📦 Option to display raw JSON response from the API
 - 🎨 Streamlit widgets: text input, buttons, sliders, checkbox, text area, charts
 
-## 🚀 How to Install and Run the Automated Usability Testing App
+## 🚀 How to Install and Run Healthy Bites
 ### For Windows Users: 
 1. Clone the Repository
   - git clone (https://github.com/agarc1031/CAP4104Project2)
